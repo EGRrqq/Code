@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "842ed1e0bf349997",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4cc722eae904548",
+        "type": "tabs",
+        "dimension": 60.37634408602151,
+        "id": "b4cc722eae904548",
+        "type": "tabs",
+        "dimension": 60.37634408602151,
+        "children": [
+          {
+            "id": "76bc6b5c2508b3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "me/time/hobbie seasons/programming_time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "programming_time"
+            }
+          },
+          {
+            "id": "b7c2eaad70bfa27a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "me/time/hobbie seasons/krita_time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "krita_time"
+            }
+          },
+          {
+            "id": "172954d3d8bb5c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bussin projects/Prototype Together/proto-doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proto-doc"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c6f1b5bdac688069",
+        "type": "tabs",
+        "dimension": 39.623655913978496,
+        "children": [
+          {
+            "id": "29d1671b016bfa90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "me/daily_todos/25_02/daily_20250205.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daily_20250205"
+            }
+          },
+          {
+            "id": "249a0a270b9cf017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bussin projects/Prototype Together/proto-doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "proto-doc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5b80e6447b6a7b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f67c410c12c7f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "590f238b5087a7ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b0ab550c79e286f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a067fff849a05443",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "95b090f456d9f677",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fdbbfb74c8ca944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ef5b721c6bf5ded",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "internship/brandnewtodos.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for brandnewtodos"
+            }
+          },
+          {
+            "id": "c31d6d9e514939c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "internship/brandnewtodos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from brandnewtodos"
+            }
+          },
+          {
+            "id": "f9ff19692190e18f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51a55eb58aee519e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "internship/brandnewtodos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of brandnewtodos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b7c2eaad70bfa27a",
+  "lastOpenFiles": [
+    "me/time/hobbie seasons/base/learn art.md",
+    "me/time/hobbie seasons/krita_time.md",
+    "me/time/hobbie seasons/social_time.md",
+    "bussin projects/social/tct_reels.md",
+    "me/time/hobbie seasons/programming_time.md",
+    "bussin projects/RW/design document.md",
+    "bussin projects/social",
+    "bussin projects/Untitled.canvas",
+    "me/time/hobbie seasons/montage_time.md",
+    "bussin projects/Prototype Together/design-doc.md",
+    "bussin projects/Prototype Together/proto-doc.md",
+    "me/time/hobbie seasons/cinematic_time.md",
+    "job hunting/sobes/clicks/25_02.md",
+    "job hunting/sobes/clicks/25_01.md",
+    "job hunting/cv/clean_FR.md",
+    "me/daily_todos/25_02/daily_20250205.md",
+    "job hunting/cv/clean_FU.md",
+    "me/daily_todos/25_02/daily_20250202.md",
+    "bussin projects/Prototype Together/dev timeline.md",
+    "bussin projects/Prototype Together/mvp.canvas",
+    "bussin projects/Cinema/design doc.md",
+    "bussin projects/Cinema/scenes/woodworker.md",
+    "job hunting/test assignments/canvas-board/design-proto_canvas-board.excalidraw.md",
+    "bussin projects/Prototype Together/first_idea.md",
+    "me/daily_todos/25_01/daily_20241030.md",
+    "me/daily_todos/25_02",
+    "me/time/hobbie seasons/book_film_time.md",
+    "job hunting/cv/pet-projects.md",
+    "job hunting/sobes/not losing it.md",
+    "job hunting/sobes/sobes.md",
+    "Recording 20250129192144.m4a",
+    "bussin projects/Prototype Together/Untitled",
+    "Pasted image 20250121134000.png",
+    "bussin projects/RW/brn_RW.canvas",
+    "me/time/hobbie seasons/base",
+    "job hunting/sobes/prepare/kts",
+    "job hunting/sobes/prepare",
+    "job hunting/sobes/clicks",
+    "me/daily_todos/25_01",
+    "me/time/hobbie seasons",
+    "bussin projects/Untitled",
+    "bussin projects/RW/proto.excalidraw.png",
+    "bussin projects/RW/proto.excalidraw.svg",
+    "bussin projects/RW/imgs/Pasted image 20240513132746.png",
+    "bussin projects/RW/imgs/Pasted Image 20240625130520_078.png",
+    "bussin projects/RW/[BUG]_OBJ_REF.png",
+    "job hunting/test assignments/canvas-board/design-proto.canvas",
+    "bussin projects/LN/LN.canvas",
+    "internship/imgs/Pasted image 20241023062708.png",
+    "me/take_care/eyes/imgs/exercises_list.jpg",
+    "internship/imgs/Pasted image 20240728113606.png",
+    "internship/imgs/Pasted image 20240728043244.png",
+    "bussin projects/project/TCT + THP.canvas",
+    "bussin projects/project/DOP.canvas",
+    "bussin projects/RW/oldge/RW.canvas",
+    "job hunting/test assignments/exchanger/failfaster.canvas",
+    "Untitled.canvas"
+  ]
+}

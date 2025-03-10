@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Light Modern",
+    "totalTypeScript.hideAllTips": false,
+    "totalTypeScript.hideBasicTips": true,
+    "editor.fontSize": 16,
+    "debug.console.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "chat.editor.fontSize": 16,
+    "window.zoomLevel": 0.5
+}

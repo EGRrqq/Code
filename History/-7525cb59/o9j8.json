@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Default Light Modern",
+    "totalTypeScript.hideAllTips": false,
+    "totalTypeScript.hideBasicTips": true,
+    "window.zoomLevel": 0.5,
+    "editor.minimap.enabled": false,
+    "workbench.preferredHighContrastColorTheme": "Default Light Modern",
+    "fountain.general.parentheticalNewLineHelper": false,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "editor.lineNumbers": "relative",",
+    "vim.smartRelativeLine": true
+}

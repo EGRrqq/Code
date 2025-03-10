@@ -1,0 +1,49 @@
+{
+    "workbench.colorTheme": "Default Light Modern",
+    "totalTypeScript.hideAllTips": false,
+    "totalTypeScript.hideBasicTips": true,
+    "window.zoomLevel": 0.5,
+    "editor.minimap.enabled": false,
+    "workbench.preferredHighContrastColorTheme": "Default Light Modern",
+    "fountain.general.parentheticalNewLineHelper": false,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.lineNumbers": "relative",
+    "vim.smartRelativeLine": true,
+    "vim.leader": "<space>",
+    // To improve performance
+    "extensions.experimental.affinity": {
+        "vscodevim.vim": 1
+    },
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": [
+                "K"
+            ],
+            "commands": [
+                "editor.action.showHover"
+            ]
+        },
+        {
+            "before": [
+                "n"
+            ],
+            "after": [
+                "n",
+                "zz"
+            ]
+        },
+        {
+            "before": [
+                "N"
+            ],
+            "after": [
+                "N",
+                "zz"
+            ]
+        }
+    ],
+}
