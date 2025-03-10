@@ -1,1 +1,1 @@
-- config located in .config/Code/User
+- config located in `.config/Code/User`
